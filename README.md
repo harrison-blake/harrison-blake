@@ -7,7 +7,7 @@ My names Harrison. I'm a software dev currecntly based out of the Washington-Bal
 
 ## 📫 How to reach me
 <p>
-  <a href="https://www.linkedin.com/in/harrison-blake-802094200/" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/harrison-r-blake/" rel="nofollow noreferrer">
     <img src="https://camo.githubusercontent.com/4ca2e33f17f061ee6eca9d6a8dce66ff705fbfbb2d71e3254be56bc76c080836/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6a617972616a726f7368616e2f" alt="linkedin">
   </a> &nbsp; 
   <a href="mailto:harrison.jobs.me@gmail.com">
