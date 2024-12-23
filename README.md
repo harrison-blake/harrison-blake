@@ -3,7 +3,7 @@ My names Harrison. I'm a software dev currecntly based out of the Washington-Bal
 
 ### ⚡tech I'm currently using
 
-[![Skills](https://skillicons.dev/icons?i=python,rails,ruby,docker,c,vim&perline=3)](https://skillicons.dev)</br>
+[![Skills](https://skillicons.dev/icons?i=python,flask,rails,ruby,postgres,docker,c,vim&perline=3)](https://skillicons.dev)</br>
 
 ## 📫 How to reach me
 <p>
