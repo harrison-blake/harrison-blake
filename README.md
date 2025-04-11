@@ -1,5 +1,5 @@
 ### Hi there 👋
-My names Harrison. I'm a software dev currecntly based out of the Washington-Baltimore area.
+My names Harrison. I'm a software dev currecntly based out of Philadelphia.
 
 ### ⚡tech I'm currently using
 
